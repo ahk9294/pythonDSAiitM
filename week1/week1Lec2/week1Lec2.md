@@ -1,8 +1,12 @@
 
-# Week1 Lec2 
-### Prof Madhvan Mukund. | Edited by Abhishek verma.
+<center>
+
+## Week1 Lec2 
+#### Prof Madhvan Mukund. | Edited by Abhishek verma.
 
 ## Test Different Versions of the same code inside Jupyter Notebook. 
+
+</center>
 
 Jupyter notebooks are the best places to test code. 
 
